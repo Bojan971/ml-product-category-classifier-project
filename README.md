@@ -6,11 +6,17 @@ The best-performing model was **Support Vector Machine (SVM)**, which achieved h
 # Project Structure
 
 ├── data/ 
+
 │ └── products.csv #dataset
+
 ├── notebooks/
+
 │ └── product_category_classification.ipynb # EDA and preprocessing
+
 ├── train_model.py # Script for training and saving the model
+
 ├── predict_category.py # Script for testing saved model with interactive prediction
+
 └── README.md # Project documentation
 
 ## What We Did in This Module
