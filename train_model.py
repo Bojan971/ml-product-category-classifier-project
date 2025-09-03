@@ -60,3 +60,5 @@ pipeline.fit(X, y)
 
 # Save the model to a file:
 joblib.dump(pipeline, "model/category_model.pkl")
+
+print("Model trained and saved as 'model/category_model.pkl'")
